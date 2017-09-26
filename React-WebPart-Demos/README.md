@@ -45,3 +45,10 @@ yo @microsoft/sharepoint
 2) Weather
 
 ![Weather](https://raw.githubusercontent.com/CodeHeight/TypeScript-Examples/master/images/weather.png)
+
+3) Temp fix for Chart.js
+
+![Chart cmd Error](https://raw.githubusercontent.com/CodeHeight/TypeScript-Examples/master/images/cmd00.png)
+
+![Chart Error](https://raw.githubusercontent.com/CodeHeight/TypeScript-Examples/master/images/chartjs.png)
+
